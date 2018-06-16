@@ -1,2 +1,2 @@
-# Pyber
+# pyber
 Python plotting project. 
